@@ -4,7 +4,7 @@ import Search from "./Search";
 import Results from "./Results";
 import API from "../utils/axiosApi";
 import moment from "moment";
-import swal from 'sweetalert'
+import swal from "sweetalert";
 class Main extends Component {
 
   state = {
